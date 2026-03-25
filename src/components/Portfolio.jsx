@@ -206,7 +206,7 @@ const Portfolio = () => {
       title: "Modern E-Commerce",
       desc: "A high-performance Shopify store with custom Liquid sections.",
       tech: ["Shopify", "Liquid", "CSS3", "JS", "HTML"],
-      link: "fmvx1v-fw.myshopify.com",
+      link: "https://fmvx1v-fw.myshopify.com",
       image: "/images/orthorejuv.png", // put image in public/images
     },
     {
@@ -555,7 +555,7 @@ const Portfolio = () => {
                   <Linkedin size={24} />
                 </a>
                 <a
-                  href="laibaramzan972@gmail.com"
+                  href="mailto:laibaramzan972@gmail.com"
                   className="p-4 bg-white/5 rounded-full hover:bg-white/10 transition-all"
                 >
                   <Mail size={24} />
