@@ -160,7 +160,7 @@ const ExternalLink = () => (
 );
 
 const Portfolio = () => {
-  const [activeTab, setActiveTab] = useState("all");
+//   const [activeTab, setActiveTab] = useState("all");
 
   const projects = [
     {
