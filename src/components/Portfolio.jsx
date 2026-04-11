@@ -170,6 +170,13 @@ const Portfolio = () => {
       link: "https://kaveolah.com/",
       image: "/images/kaveolah.png", // put image in public/images
     },
+     {
+      title: "Modern E-Commerce",
+      desc: "A high-performance Shopify store with custom Liquid sections.",
+      tech: ["Shopify", "Liquid", "CSS3", "JS", "HTML"],
+      link: "https://printdecor-com-au.myshopify.com/",
+      image: "/images/printdecor.png", // put image in public/images
+    },
     {
       title: "Modern E-Commerce",
       desc: "A high-performance Shopify store with custom Liquid sections.",
@@ -185,14 +192,6 @@ const Portfolio = () => {
       link: "https://belforart.com/",
       image: "/images/belfor.png", // put image in public/images
       password: "belfor@123",
-    },
-    {
-      title: "Modern E-Commerce",
-      desc: "A high-performance Shopify store with custom Liquid sections.",
-      tech: ["Shopify", "Liquid", "CSS3", "JS", "HTML"],
-      link: "https://printdecor-com-au.myshopify.com/",
-      image: "/images/printdecor.png", // put image in public/images
-      password: "1122",
     },
     {
       title: "Modern E-Commerce",
