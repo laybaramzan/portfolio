@@ -169,6 +169,7 @@ const Portfolio = () => {
       tech: ["Shopify", "Liquid", "CSS3", "JS", "HTML"],
       link: "https://kaveolah.com/",
       image: "/images/kaveolah.png", // put image in public/images
+      password: "maoyow"
     },
      {
       title: "Modern E-Commerce",
