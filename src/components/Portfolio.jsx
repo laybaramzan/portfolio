@@ -163,6 +163,13 @@ const Portfolio = () => {
 //   const [activeTab, setActiveTab] = useState("all");
 
   const projects = [
+     {
+      title: "Modern E-Commerce",
+      desc: "A high-performance Shopify store with custom Liquid sections.",
+      tech: ["Shopify", "Liquid", "CSS3", "JS", "HTML"],
+      link: "https://printdecor-com-au.myshopify.com/",
+      image: "/images/printdecor.png", // put image in public/images
+    },
     {
       title: "Modern E-Commerce",
       desc: "A high-performance Shopify store with custom Liquid sections.",
@@ -170,13 +177,6 @@ const Portfolio = () => {
       link: "https://kaveolah.com/",
       image: "/images/kaveolah.png", // put image in public/images
       password: "maoyow"
-    },
-     {
-      title: "Modern E-Commerce",
-      desc: "A high-performance Shopify store with custom Liquid sections.",
-      tech: ["Shopify", "Liquid", "CSS3", "JS", "HTML"],
-      link: "https://printdecor-com-au.myshopify.com/",
-      image: "/images/printdecor.png", // put image in public/images
     },
     {
       title: "Modern E-Commerce",
