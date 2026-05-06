@@ -174,6 +174,14 @@ const Portfolio = () => {
       title: "Modern E-Commerce",
       desc: "A high-performance Shopify store with custom Liquid sections.",
       tech: ["Shopify", "Liquid", "CSS3", "JS", "HTML"],
+      link: "https://gamebreaker-com.myshopify.com/",
+      image: "/images/gamebreaker.png", // put image in public/images
+      password: "biweam",
+    },
+    {
+      title: "Modern E-Commerce",
+      desc: "A high-performance Shopify store with custom Liquid sections.",
+      tech: ["Shopify", "Liquid", "CSS3", "JS", "HTML"],
       link: "https://kaveolah.com/",
       image: "/images/kaveolah.png", // put image in public/images
       password: "maoyow"
@@ -193,14 +201,6 @@ const Portfolio = () => {
       link: "https://belforart.com/",
       image: "/images/belfor.png", // put image in public/images
       password: "belfor@123",
-    },
-    {
-      title: "Modern E-Commerce",
-      desc: "A high-performance Shopify store with custom Liquid sections.",
-      tech: ["Shopify", "Liquid", "CSS3", "JS", "HTML"],
-      link: "https://gamebreaker-com.myshopify.com/",
-      image: "/images/gamebreaker.png", // put image in public/images
-      password: "biweam",
     },
     {
       title: "Modern E-Commerce",
