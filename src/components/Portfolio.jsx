@@ -220,7 +220,7 @@ const Portfolio = () => {
       title: "React Website",
       desc: "Frontend of online book store website",
       tech: ["React", "Tailwind"],
-      link: "https://my-online-bookstore-phi.vercel.app/",
+      link: "https://online-bookstore-44sf.vercel.app/",
       image: "/images/shopper.png", // put image in public/images
     },
     {
