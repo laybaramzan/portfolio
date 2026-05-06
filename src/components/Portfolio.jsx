@@ -176,7 +176,7 @@ const Portfolio = () => {
       tech: ["Shopify", "Liquid", "CSS3", "JS", "HTML"],
       link: "https://gamebreaker-com.myshopify.com/",
       image: "/images/gamebreaker.png", // put image in public/images
-      password: "biweam",
+     
     },
     {
       title: "Modern E-Commerce",
